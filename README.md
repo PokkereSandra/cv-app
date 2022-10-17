@@ -21,3 +21,4 @@ Collected data are personal details, education and job experience information, a
 
 ![add](https://user-images.githubusercontent.com/102672847/196302275-dba38c91-b6a8-466e-af3f-f79d3d522d5d.jpg)
 ![edit](https://user-images.githubusercontent.com/102672847/196302428-2914274c-ea43-4dba-bb69-35652b872fa9.jpg)
+![cv](https://user-images.githubusercontent.com/102672847/196302530-ff0367cc-42f4-4deb-8589-4bd86aa05879.jpg)
