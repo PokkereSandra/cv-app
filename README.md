@@ -18,3 +18,5 @@ Collected data are personal details, education and job experience information, a
 - php artisan key:generate
 - php artisan storage:link
 - php artisan serve
+
+![add](https://user-images.githubusercontent.com/102672847/196302275-dba38c91-b6a8-466e-af3f-f79d3d522d5d.jpg)
