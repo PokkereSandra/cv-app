@@ -1,0 +1,68 @@
+.success-message {
+    text-align: center;
+}
+
+.add-button {
+    margin: 20px 0 20px 0;
+}
+
+.cv-table {
+    padding-top: 15px;
+}
+
+.personal-info-block {
+    padding: 20px 10px 20px 20px;
+
+}
+
+.link:hover {
+    color: gray;
+    cursor: default;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
+
+.profile-image {
+    height: 140px;
+    width: 95px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.underline {
+    width: 100%;
+    border-bottom: 1px solid grey;
+    margin: 20px 0 20px 0;
+
+}
+
+.personal-description-block {
+    padding: 20px 10px 5px 10px;
+    text-align: justify;
+}
+
+.education-block {
+    padding: 20px 10px 5px 10px;
+}
+
+.job-block {
+    padding: 20px 10px 5px 10px;
+}
+
+.buttons {
+    text-decoration: none;
+    padding: 20px 10px 20px 10px;
+    text-align: right;
+}
+
+.required:after {
+    content: '*';
+    color: red;
+    padding-left: 5px;
+}
+
